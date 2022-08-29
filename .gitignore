@@ -1,0 +1,13 @@
+wp-config.php
+default.html
+error_log
+wp-content/uploads
+.htaccesss
+.well-know
+cgi-bin
+
+node_modules/
+
+.log
+.sql
+.sqlite
